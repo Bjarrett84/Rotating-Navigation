@@ -16,6 +16,6 @@ body {
   background-color: #fafafa;
 }
 
-.container.show-nave {
+.container.show-nav {
   transform: rotate(-20deg);
 }
